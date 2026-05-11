@@ -1,3 +1,4 @@
 # slangspel_blok2
-Dit is de blok twee project waar wij gaan de spel "slangspel" maken.
+Dit is de blok 2 project waar wij de spel "slangspel" gaan maken.
+
 
