@@ -14,7 +14,7 @@ Eten laten verschijnen
 Score systeem
 Game over scherm
 Gebruikte technieken
-Programmeertaal: JavaScript / Python / C#
+Programmeertaal: Python
 Game loop
 Toetsenbord input
 Planning
