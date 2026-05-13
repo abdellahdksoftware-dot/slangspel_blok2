@@ -1,15 +1,15 @@
 # slangspel_blok2
-Dit is de blok twee project waar wij gaan de spel "slangspel" maken.
+1-Dit is de blok twee project waar wij gaan de spel "slangspel" maken.
 Plan van Aanpak – Slang Spel
 
-Projectomschrijving
+2-Projectomschrijving
 We gaan een slang spel (Snake Game) maken waarbij de speler eten verzamelt om punten te verdienen en langer te worden. Het spel stopt wanneer de slang tegen de muur of zichzelf botst.
 
-Doel
+3-Doel
 Het doel is om meer ervaring te krijgen met programmeren, bewegingen, gebruikersinput en game logica.
 
 
-Functionaliteiten
+4-Functionaliteiten
 
 Slang besturen met toetsenbord
 
@@ -39,6 +39,6 @@ Botsingen maken
 
 Testen en verbeteren
 
-Eindresultaat
+5-Eindresultaat
 
 Een werkend slang spel dat speelbaar is op de computer.
