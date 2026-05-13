@@ -8,21 +8,37 @@ We gaan een slang spel (Snake Game) maken waarbij de speler eten verzamelt om pu
 Doel
 Het doel is om meer ervaring te krijgen met programmeren, bewegingen, gebruikersinput en game logica.
 
+
 Functionaliteiten
+
 Slang besturen met toetsenbord
+
 Eten laten verschijnen
+
 Score systeem
+
 Game over scherm
+
 Gebruikte technieken
+
 Programmeertaal: Python
+
 Game loop
+
 Toetsenbord input
+
 Planning
+
 Ontwerp maken
+
 Beweging van slang programmeren
+
 Eten en score toevoegen
+
 Botsingen maken
+
 Testen en verbeteren
 
 Eindresultaat
+
 Een werkend slang spel dat speelbaar is op de computer.
