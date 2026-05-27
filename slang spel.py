@@ -24,7 +24,7 @@ eten.penup()
 eten.goto(0, 100)
 
 
-Bewegingsfuncties
+#Bewegingsfuncties
 def ga_omhoog():
     if kop.direction != "down":
         kop.direction = "up"
