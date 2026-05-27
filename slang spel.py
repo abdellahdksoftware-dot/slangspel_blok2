@@ -9,8 +9,13 @@ vertraging = 0.3
 score = 0
 hoogste_score = 0
 
+scherm = turtle.Screen()
+scherm.title("Klassieke Snake Game (Rustig Tempo)")
+scherm.bgcolor("black")
+scherm.setup(width=600, height=600)
+scherm.tracer(0)
 
-# --- 3. Het Eten ---
+#Het Eten
 eten = turtle.Turtle()
 eten.speed(0)
 eten.shape("circle")
@@ -19,7 +24,7 @@ eten.penup()
 eten.goto(0, 100)
 
 
-# --- 5. Bewegingsfuncties ---
+Bewegingsfuncties
 def ga_omhoog():
     if kop.direction != "down":
         kop.direction = "up"
@@ -58,7 +63,7 @@ def beweeg():
         kop.setx(x + 20)
 
 
-# --- 6. Toetsenbord Koppelingen ---
+#Toetsenbord Koppelingen
 scherm.listen()
 scherm.onkeypress(ga_omhoog, "Up")
 scherm.onkeypress(ga_omlaag, "Down")
