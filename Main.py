@@ -1,4 +1,5 @@
 from Bewegingen import *
+from Map import *
 # Snelheid van de game loop (0.3 langzaam )
 vertraging = 0.3
 
